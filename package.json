@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/BJZeta/Hot-Restaraunt/issues"
   },
-  "homepage": "https://github.com/BJZeta/Hot-Restaraunt#readme",
+  "homepage": "https://murmuring-earth-93952.herokuapp.com/",
   "dependencies": {
     "express": "^4.17.1"
   }
