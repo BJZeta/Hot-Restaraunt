@@ -4,6 +4,7 @@
   "description": "",
   "main": "exp-server.js",
   "scripts": {
+    "start": "node exp-server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/BJZeta/Hot-Restaraunt/issues"
   },
-  "homepage": "https://murmuring-earth-93952.herokuapp.com/",
+  "homepage": "https://github.com/BJZeta/Hot-Restaraunt#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
